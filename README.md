@@ -1,3 +1,3 @@
 # demo-
 this is my sample repo
-author-Akshay
+author-Akshay cse
